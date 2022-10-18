@@ -1,0 +1,30 @@
+//GAME
+#define LOCALPLAYER 0x1e49288
+#define CL_ENTITYLIST 0x1a98778
+#define CLIENTSTATE 0x13c3c80
+#define CGLOBALVAR 0x13c3990
+#define RENDER 0x75c6190
+#define MATRIX 0x11a210
+#define M_INAME 0x589
+#define M_ITEAMNUM 0x448
+#define LASTVISIBLETIME 0x1a44
+#define m_ammoPoolCapacity 0x24f4//
+#define ORIGIN 0x014c
+#define BONES 0xED0
+#define VIEWANGLES m_ammoPoolCapacity - 0x14
+#define AIMPUNCH 0x23f8
+#define M_LASTESTPRIMARYWINDOWS 0x19ec
+#define NSKIN 0x0e48
+#define IN_JUMP 0x07546398
+#define LIFESTATE 0x798
+#define BLEEDOUTSTATE 0x2688
+#define BULLET_SPEED 0x1eb0
+#define BULLET_SCALE 0x1eb8
+#define CAMERAPOS 0x1ea0
+#define ITEM_ID 0x1628
+#define GLOW_ENABLE 0x3C8
+#define GLOW_THROUGH_WALLS 0x3D0
+#define GLOW_TYPE 0x2C4
+#define GLOW_R 0x1D0
+#define GLOW_G 0x1D4
+#define GLOW_B 0x1D8	
